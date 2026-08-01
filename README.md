@@ -108,7 +108,7 @@ OWN-VILLAIN-BOT
 
 # DEPLOYMENT SITE 🖇️🦉
 <div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+<a href="https://rl.katabump.fr/4c5211" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 </div>
